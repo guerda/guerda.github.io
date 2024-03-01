@@ -1,7 +1,6 @@
 +++
 title = 'Willkommen'
 date = 2024-03-01T14:15:10+01:00
-draft = true
 +++
 
 # Willkommen auf _guerdas Sammlung_!
