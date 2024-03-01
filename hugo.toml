@@ -1,0 +1,4 @@
+baseURL = 'https://guerda.github.io/'
+languageCode = 'de-DE'
+title = 'guerdas Sammlung'
+theme = 'ananke'
