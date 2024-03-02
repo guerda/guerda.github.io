@@ -2,3 +2,8 @@ baseURL = 'https://guerda.github.io/'
 languageCode = 'de-DE'
 title = 'guerdas Sammlung'
 theme = 'ananke'
+
+[[params.ananke.socials]]
+name = mastodon
+url = https://ruhr.social/@guerda
+rel =me noopener
