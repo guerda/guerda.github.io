@@ -3,3 +3,9 @@ languageCode: de-DE
 title: guerdas Sammlung
 theme: ananke
 sectionPagesMenu: main
+
+params:
+  ananke_socials:
+    - name: mastodon
+      url: https://ruhr.social/@guerda
+      rel: me noopener
