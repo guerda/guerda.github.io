@@ -1,7 +1,6 @@
 +++
 title = 'Wiso Steuer langsam auf Windows 10'
 date = 2024-04-25T09:54:00+01:00
-draft = true
 +++
 
 Ich nutze auf Windows 10 die Software Wiso Steuer.
