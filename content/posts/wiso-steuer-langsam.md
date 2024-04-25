@@ -1,9 +1,7 @@
 +++
 title = 'Wiso Steuer langsam auf Windows 10'
-date = 2024-04-25T09:54:00+01:00
+date = 2024-04-25T08:54:00+01:00
 +++
-
-# Wiso Steuer langsam auf Windows 10
 
 Ich nutze auf Windows 10 die Software Wiso Steuer.
 Obwohl das Programm recht simpel ist, ist es sehr langsam.
@@ -20,7 +18,7 @@ Der Dienst ist der sogenannte _Dateiversionsverlauf-Dienst_, um persönliche Dat
 Praktisch, aber warum der Wiso lahmlegt, ist mir nicht klar.
 Die Wiso-Datei wird nicht konstant gespeichert, daher hat der Dienst eigentlich nichts zu tun.
 
-![Screenshot der Diensteigenschaften: Dienstname: fhsvc, Anzeigename: Dateiversionsverlauf-Dienst, Beschreibung: Schützt Benutzerdateien vor einem versehentlichen Verlust durch Kopieren der Dateien an einen Sicherungsspeicherort. Pfad zur EXE-Datei: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p. Dienststatus: beendet](https://github.com/guerda/guerda.github.io/assets/230782/00a8cc86-5e98-46c3-9bd5-4eb2c3c5adc9)
+![Screenshot der Diensteigenschaften: Dienstname: fhsvc, Anzeigename: Dateiversionsverlauf-Dienst, Beschreibung: Schützt Benutzerdateien vor einem versehentlichen Verlust durch Kopieren der Dateien an einen Sicherungsspeicherort. Pfad zur EXE-Datei: C:\WINDOWS\system32\svchost.exe -k LocalSystemNetworkRestricted -p. Dienststatus: beendet](../service-fhsvc.png)
 
 **Details des Dienstes**
 * Dienstname: `fhsvc`

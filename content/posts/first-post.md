@@ -1,9 +1,7 @@
 +++
-title = 'Willkommen'
+title = 'Willkommen auf guerdas Sammlung'
 date = 2024-03-01T14:15:10+01:00
 +++
-
-# Willkommen auf _guerdas Sammlung_!
 
 Ich habe gerade starke Nostalgie, weil ich mir gerade vorkomme wie vor mehr als 20 Jahren, als ich meine erste Website mit HTML veröffentlicht habe (SelfHTML sei Dank).
 Warum mache ich heute noch Mal eine Website auf? Ich mag den Gedanken, kleine Ecken im Internet zu haben und zu finden, wo Leute ihre Beiträge veröffentlichen, zu jedem Nischenthema, das sie mögen.
