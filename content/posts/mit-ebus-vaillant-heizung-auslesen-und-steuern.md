@@ -1,7 +1,6 @@
 +++
 title = 'Mit ebus Vaillant-Heizung auslesen und steuern'
 date = 2024-03-22T20:15:10+01:00
-draft = true
 +++
 
 Ich habe eine Vaillant-Heizung verbaut und kann seit dieser Woche ziemlich alle Werte, die die Heizung hergibt, automatisch auslesen und einige Werte auch steuern.
