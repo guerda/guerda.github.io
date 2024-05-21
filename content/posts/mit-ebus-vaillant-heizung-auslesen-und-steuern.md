@@ -12,7 +12,7 @@ Zuerst gibt es ein wenig Hintergrund, dann erzähle ich etwas zum Adapter, zum S
 Vaillant hat eine proprietäre Schnittstelle auf einigen ihrer Geräte verbaut, die sog. _ebus_-Schnittstelle.
 Das Bus-System unterstützt Gasbrennwertheizungen, Wärmepumpen, Steuergeräte etc. und kann mehrere Geräte in einem Bus verbinden.
 
-Das Protokoll haben einige coole Menschen decodiert und einen Adapter dafür gebaut, den _ebus-Adapter_. Alle Infos zu dem Adapter findet ihr hier: [ebus.eu](https://www.ebus.eu).
+Das Protokoll haben einige coole Menschen decodiert und einen Adapter dafür gebaut, den _ebus-Adapter_. Alle Infos zu dem Adapter findet ihr hier: [ebusd.de](https://ebusd.de/).
 Zu erwähnen sind _john30_ und _Galileo_, aber noch ganz viele andere.
 
 Über das Protokoll lassen sich Messwerte wie Temperaturen auslesen und Steuerwerte wie gewünschte Temperaturen, Zeitplan, Arbeitsmodus etc. können gesetzt werden.
