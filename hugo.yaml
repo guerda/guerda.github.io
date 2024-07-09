@@ -4,6 +4,8 @@ title: guerdas Sammlung
 theme: ananke
 sectionPagesMenu: main
 
+enableRobotsTXT: true
+
 params:
   ananke_socials:
     - name: mastodon
