@@ -1,0 +1,30 @@
+
+title = "guerdas Sammlung"
+baseURL = "https://guerda.github.io/"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
+defaultContentLanguage = "de"
+sectionPagesMenu = "main"
+enableRobotsTXT = true
+
+[params]
+author = "guerda"
+date_format = ':date_long'
+
+[params.ananke.social.follow]
+new_window_icon = false
+networks = [
+  "github",
+  "mastodon",
+  "linkedin"
+]
+
+[params.ananke.social.github]
+username = "guerda"
+
+[params.ananke.social.linkedin]
+username = "philipgillissen"
+
+[params.ananke.social.mastodon]
+profilelink = "https://ruhr.social/@guerda"
+rel = "me noopener"
+
