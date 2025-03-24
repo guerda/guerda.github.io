@@ -1,1 +1,1 @@
-[Blog](https://guerda.github.io)
+[Blog](https://guerda.de)
