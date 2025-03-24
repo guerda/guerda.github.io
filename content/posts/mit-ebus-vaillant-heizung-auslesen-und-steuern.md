@@ -1,6 +1,7 @@
 +++
 title = 'Mit ebus Vaillant-Heizung auslesen und steuern'
 date = 2025-03-20T11:03:10+01:00
+tags = ['Docker', 'ebusd', 'Home Assistant', 'MQTT', 'Smart Home', 'Vaillant']
 +++
 
 Ich habe eine Vaillant-Heizung verbaut und kann seit einem Jahr ziemlich alle Werte, die die Heizung hergibt, automatisch auslesen und einige Werte auch steuern.
