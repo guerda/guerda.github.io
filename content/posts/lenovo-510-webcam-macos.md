@@ -1,6 +1,7 @@
 +++
 title = 'Lenovo 510 Webcam unter MacOS'
 date = 2024-07-01T09:46:14+02:00
+tags = ['Lenovo', 'Fedora', 'MacOS']
 +++
 
 Ich benutze eine Lenovo Webcam 510 unter Fedora und Windows.

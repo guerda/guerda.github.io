@@ -1,6 +1,7 @@
 +++
 title = 'Wiso Steuer langsam auf Windows 10'
 date = 2024-04-25T08:54:00+01:00
+tags = ['WiSo', 'Windows 10']
 +++
 
 Ich nutze auf Windows 10 die Software Wiso Steuer.
