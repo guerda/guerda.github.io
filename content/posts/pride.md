@@ -1,2 +1,18 @@
 Es ist Juni.
-Es ist ruhig, ruhiger als sonst ein Juni. Die Nachrichten? Voll mit Krisen, Streits und Krieg. Es ist ruhig, ruhiger als sonst ein Juni. die #Pride Beiträge von Unternehmen leiser, verhaltener oder gar nicht da. Wir müssen laut sein, lauter als sonst im Juni. Lauter sein für alle, die offen queer leben Lauter sein für alle, die nicht offen queer leben. Lauter sein für alle, die bedroht werden, nicht nur von einzelnen Personen sondern von Regimen, Regierungen und Organisationen. Pride jetzt erst Recht.
+
+Es ist ruhig, ruhiger als sonst ein Juni.
+Die Nachrichten? Voll mit Krisen, Streits und Krieg.
+
+Es ist ruhig, ruhiger als sonst ein Juni.
+
+Die #Pride-Beiträge von Unternehmen leiser, verhaltener oder gar nicht da.
+
+Wir müssen laut sein, lauter als sonst im Juni.
+
+Lauter sein für alle, die offen queer leben.
+
+Lauter sein für alle, die nicht offen queer leben.
+
+Lauter sein für alle, die bedroht werden, nicht nur von einzelnen Personen sondern von Regimen, Regierungen und Organisationen. 
+
+Pride - jetzt erst Recht.
