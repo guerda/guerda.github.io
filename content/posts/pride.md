@@ -1,3 +1,8 @@
++++
+title = 'Es ist Juni'
+date = 2025-05-03T20:45:10+02:00
+tags = ['Pride']
++++
 Es ist Juni.
 
 Es ist ruhig, ruhiger als sonst ein Juni.
