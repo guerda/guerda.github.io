@@ -1,3 +1,7 @@
+---
+type: Checklist
+---
+
 # Straßensperrung in Google Maps wieder freigeben
 
 Nachdem ich eine Straßensperrung in Google Maps gemeldet hatte, wurde sie schnell für jede*n aktiv. Dann würde die Sperrung aufgehoben. Aber wie kann ich die Sperrung in Google Maps wieder aufheben?
