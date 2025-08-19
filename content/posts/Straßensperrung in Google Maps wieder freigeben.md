@@ -3,7 +3,7 @@
 Nachdem ich eine Straßensperrung in Google Maps gemeldet hatte, wurde sie schnell für jede*n aktiv. Dann würde die Sperrung aufgehoben. Aber wie kann ich die Sperrung in Google Maps wieder aufheben?
 
 Anfang des Jahres wurde eine Straße bei uns in der Nähe für längere Zeit gesperrt und viele Besucher*innen, die zu uns wollten, wurden von Google Maps falsch geleitet.
-Also [habe ich die  Straße als gesperrt gemeldet](posts/google-maps-strassensperrungen.md).
+Also [habe ich die  Straße als gesperrt gemeldet](google-maps-strassensperrungen.md).
 
 In der Zwischenzeit ist die Baustelle fertig und die Straße ist wieder frei - leider nicht virtuell. 
 
