@@ -2,7 +2,6 @@
 title = 'Straßensperrungen in Google Maps wieder freigeben'
 date = 2025-08-20T15:55:53+02:00
 tags = ['Google', 'Google Maps']
-draft = true
 +++
 
 Nachdem ich eine Straßensperrung in Google Maps gemeldet hatte, wurde sie schnell für jede\*n aktiv. Dann wurde die Sperrung aufgehoben. Aber wie kann ich die Sperrung in Google Maps wieder entfernen?
