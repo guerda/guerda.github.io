@@ -1,6 +1,6 @@
 +++
 title = 'Ausgewählt-Markierungen aus Lightroom auslesen'
-date = 2025-12-12T13:40:00+01:00
+date = 2025-14-12T13:40:00+01:00
 tags = ['Lightroom', 'XMP', 'Darktable']
 +++
 
