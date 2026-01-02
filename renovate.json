@@ -3,5 +3,12 @@
   "extends": [
     "config:recommended"
   ],
-  "assignees": ["guerda"]
+  "assignees": ["guerda"],
+  "packageRules": [
+    {
+      "matchManagers": ["gomod"],
+      "matchDepTypes": ["indirect"],
+      "enabled": true
+    }
+  ]
 }
