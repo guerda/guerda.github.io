@@ -2,7 +2,6 @@
 title = 'Bitrate file vs ffprobe'
 date = 2026-01-02T14:09:25+01:00
 tags = ["ffmpeg", "ffprobe", "mp3", "Linux"]
-draft = true
 +++
 
 # Bitrate mit file und ffprobe erkennen
