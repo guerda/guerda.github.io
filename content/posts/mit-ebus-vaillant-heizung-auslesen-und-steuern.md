@@ -18,7 +18,7 @@ Zu erwähnen sind _john30_ und _Galileo_, aber noch ganz viele andere.
 
 Über das Protokoll lassen sich Messwerte wie Temperaturen auslesen und Steuerwerte wie gewünschte Temperaturen, Zeitplan, Arbeitsmodus etc. können gesetzt werden.
 
-# Adapter
+## Adapter
 
 Ich habe mir den Adapter für 17€ bestellt und er sieht sehr unscheinbar aus.
 Ein kleiner ESP-Chip auf Board, eine Antenne und eine grüne Anschlussbuchse. 
@@ -35,7 +35,7 @@ Der steht ganz oben im weißen Kästchen und ist später für den _ebusd_-Dienst
 Alle weiteren Standards waren in meinem Fall ok.
 Über die Weboberfläche lässt sich die Firmware des Adapters auch aktualisieren.
 
-## ebusd-Dienst
+### ebusd-Dienst
 
 Der ebusd (ebus Daemon) ist ein Stück Software, das die Werte vom Adapter ausliest, interpretiert und übersetzt. 
 Der Daemon kann die Werte in JSON übersetzen und mit etwas Hilfe auch direkt für Home Assistant aufbereiten.
@@ -49,7 +49,7 @@ Die Konfiguration des Dienstes kann über Flags beim Start, über Umgebungsvaria
 Über docker compose habe ich den Weg der Umgebungsvariablen genutzt.
 
 
-## Anschluss an die Heizung
+### Anschluss an die Heizung
 
 Das war der einfachste Schritt.
 Der Anschluss an die Heizung erfolgt an den ebus-Port vom Steuergerät, der sich in der Bedienungsanleitung finden lässt. Dabei ist die Polarität egal.
@@ -57,7 +57,7 @@ Mit einem einfachen zweiadrigen Kabel habe ich Steuergerät und Adapter verbunde
 Falls bereits Kabel im ebus-Port des Steuergerätes stecken:
 **Bitte Kabel stecken lassen und die Kabel vom Adapter hinzufügen.**
 
-## Integration in Home Assistant 
+### Integration in Home Assistant 
 
 Um den Adapter in Home Assistant zu integrieren, verwende ich
 [Mosquitto](https://mosquitto.org/) als MQTT-Broker.
@@ -96,7 +96,7 @@ Die Integration bringt sehr viele Werte mit sich und macht viele Listen etwas un
 
 Ich lese zum Beispiel die aktuelle Heizkurve aus, ob die Pumpe aktuell läuft, sowie die Temperaturen der Sensoren.
 
-# Zusammenfassung
+## Zusammenfassung
 Über das Gerät, den Dienst und MQTT lassen sich über 100 Werte aus meiner Heizung einfach ablesen und kontrollieren.
 Ich lese die Werte nur aus und steuere nicht damit, das soll auch möglich werden.
 

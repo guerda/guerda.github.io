@@ -9,7 +9,7 @@ Der Umstieg ist nicht leicht, vor allem weil bei allen Fotos die "Ausgewählt"-M
 Ich habe einen Weg gefunden, die Daten auszulesen, ohne Lightroom zu öffnen.
 Das eröffnet den Weg, die Markierungen auch in Darktable wieder nutzbar zu machen
 
-# Der Ausgangslage
+## Der Ausgangslage
 Ich besitze eine alte Version von Lightroom, die noch lokal läuft.
 Darin habe ich über Jahrzente Fotos gespeichert und ausgewählt, um sie auszudrucken oder zu teilen.
 Leider funktioniert die Version nicht mehr mit dem aktuell MacOS und daher war ich gezwungen, eine Alternative zu finden.
@@ -18,13 +18,13 @@ Ich bin auf Darktable gestoßen und auf eine gute [Migrations-Anleitung von Math
 Der Migrationsprozess hat funktioniert, leider wurde - wie erwartet - keinerlei Markierung, ob ein Foto ausgewählt wurde, mitgenommen.
 Diese Info ist aber ein Hauptbestandteil meiner Arbeitsweise, wie ich mit Fotos umgehe.
 
-# Der Bedarf
+## Der Bedarf
 Jetzt stand wieder mal an, endlich die Fotobücher der letzten Urlaube zu erstellen.
 Vorselektiert hatten wir die Bilder schon - in Lightroom.
 Problem war jetzt, dass wir die Selektion nicht mehr hatten.
 So schwer kann es doch nicht sein, die Selektion auszulesen, oder?
 
-# Die Lösung
+## Die Lösung
 Ich habe mir die Backup-Dateien von dem Katalog angeschaut.
 Bei mir lagen das neueste Katalog-Backup unter `~/Pictures/Lightroom/Backups/2024-xx-xx/2024 Lightroom 3 Catalog.lrcat`.
 Ein schnelles `file *.lrcat` zeigte mir an, dass es eine SQLite-Datenbank ist:
@@ -55,7 +55,7 @@ Die dritte Zeile verändert das Ziel von Standardausgabe auf eine Datei, hier `s
 Die vierte Zeile ist die Selektion: Der Dateiname eines jedes Bildes aus der Tabelle `adobe_images`, das zwischen den beiden Daten aufgenommen wurde und ausgewählt (`pick`) ist, wird ausgegeben.
 Die letzte Zeile beendet SQLite, kann weggelassen werden, wenn man die Session noch nutzen will
 
-# Ausblick
+## Ausblick
 Für einen einmaligen Export ist diese Methode vollkommen ausreichend.
 Ich konnte mit einem kleinen Python-Script die Dateien in einen extra Ordner kopieren, sodass ich von dort das Fotobuch endlich anfertigen konnte.
 Am Besten wäre es, wenn ein Script die Daten gesamtheitlich ausliest und in den jeweiligen XMP-Dateien (_Sidecar file_) speichern würde.
