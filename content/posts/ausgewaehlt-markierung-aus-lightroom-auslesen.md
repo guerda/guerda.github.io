@@ -9,7 +9,7 @@ Der Umstieg ist nicht leicht, vor allem weil bei allen Fotos die "Ausgewählt"-M
 Ich habe einen Weg gefunden, die Daten auszulesen, ohne Lightroom zu öffnen.
 Das eröffnet den Weg, die Markierungen auch in Darktable wieder nutzbar zu machen
 
-## Der Ausgangslage
+## Die Ausgangslage
 Ich besitze eine alte Version von Lightroom, die noch lokal läuft.
 Darin habe ich über Jahrzente Fotos gespeichert und ausgewählt, um sie auszudrucken oder zu teilen.
 Leider funktioniert die Version nicht mehr mit dem aktuell MacOS und daher war ich gezwungen, eine Alternative zu finden.
