@@ -1,7 +1,6 @@
 +++
 title = 'ebusd mit Uptime Kuma überwachen'
 date = 2026-02-28T14:04:02+01:00
-draft = true
 tags = ["ebus", "ebusd", "MQTT", "Uptime Kuma"]
 +++
 
