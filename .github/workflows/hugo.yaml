@@ -6,7 +6,9 @@ on:
   push:
     branches:
       - main
-
+  pull_request:
+    branches: []
+    
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -28,8 +30,8 @@ defaults:
     shell: bash
 
 jobs:
-  # Build job
-  build:
+  # Setup
+  setup:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.157.0
@@ -40,6 +42,22 @@ jobs:
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb          
       - name: Install Dart Sass
         run: sudo snap install dart-sass
+
+  # Test
+  test:
+    runs-on: ubuntu-latest
+    needs: setup
+    steps:
+      - name: Test Hugo
+        run: hugo
+    
+  # Build job
+  build:
+    if: ${{ github.ref == 'refs/heads/main' }}
+    runs-on: ubuntu-latest
+    needs: test
+
+    steps:
       - name: Checkout
         uses: actions/checkout@v6
         with:
@@ -67,6 +85,7 @@ jobs:
 
   # Deployment job
   deploy:
+    if: ${{ github.ref == 'refs/heads/main' }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
