@@ -1,10 +1,9 @@
 +++
-title = 'Bitrate file vs ffprobe'
+title = 'Bitrate mit file und ffprobe erkennen
 date = 2026-01-02T14:09:25+01:00
 tags = ["ffmpeg", "ffprobe", "mp3", "Linux"]
 +++
 
-# Bitrate mit file und ffprobe erkennen
 
 Ich habe in letzter Zeit versucht, MP3-Dateien mit schlechter Audioqualität zu finden.
 Hier ist meine Erfahrung, um euch vor Datenverlust zu bewahren.
