@@ -7,26 +7,26 @@ tags = ["Let's Encrypt", 'Caddy', 'Pi-hole', 'FRITZ!Box']
 
 
 
-# Ziele
+## Ziele
 
 
 
-# Domain-Setup
+## Domain-Setup
 
 
 
-# TLS-Zertifikat via Let's Encrypt erzeugen
+## TLS-Zertifikat via Let's Encrypt erzeugen
 
 
 
-# Lokale Domains im DNS bekanntmachen
+## Lokale Domains im DNS bekanntmachen
 
 
 
-# Reverse Proxy in Caddy
+## Reverse Proxy in Caddy
 
 
-# Offene Punkte
+## Offene Punkte
 
 
 https://docs.pi-hole.net/routers/fritzbox-de/
