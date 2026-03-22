@@ -1,5 +1,5 @@
 +++
-title = 'Bitrate mit file und ffprobe erkennen
+title = 'Bitrate mit file und ffprobe erkennen'
 date = 2026-01-02T14:09:25+01:00
 tags = ["ffmpeg", "ffprobe", "mp3", "Linux"]
 +++
