@@ -1,7 +1,7 @@
 
 title = "guerdas Sammlung"
 baseURL = "https://guerda.github.io/"
-theme = ["github.com/gohugo-ananke/ananke/v2"]
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
 defaultContentLanguage = "de"
 sectionPagesMenu = "main"
 enableRobotsTXT = true
