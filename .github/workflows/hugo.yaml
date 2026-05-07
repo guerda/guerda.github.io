@@ -14,7 +14,7 @@ on:
 
 env:
   # Define used Hugo version centrally
-  HUGO_VERSION: 0.157.0
+  HUGO_VERSION: 0.161.1
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
