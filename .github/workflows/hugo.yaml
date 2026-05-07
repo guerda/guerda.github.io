@@ -52,7 +52,6 @@ jobs:
       - name: Install Dart Sass
         run: |
           sudo snap install dart-sass
-          hugo mod tidy
       - name: Test Hugo
         run: hugo
     
