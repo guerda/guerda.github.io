@@ -23,6 +23,11 @@ networks = [
 
 [params.ananke.social.codeberg]
 username = "guerda"
+slug = "codeberg"
+label = "Codeberg"
+color = "#2185d0"
+profile = "https://codeberg.org/%s/"
+icon = "code" # font awesome code icon
 
 [params.ananke.social.github]
 username = "guerda"
