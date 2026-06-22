@@ -13,12 +13,26 @@ date_format = ':date_long'
 [params.ananke.social.follow]
 new_window_icon = false
 networks = [
+  "codeberg",
   "github",
+  "gitlab",
   "mastodon",
-  "linkedin"
+  "linkedin",
+  "xing"
 ]
 
+[params.ananke.social.codeberg]
+username = "guerda"
+slug = "codeberg"
+label = "Codeberg"
+color = "#2185d0"
+profile = "https://codeberg.org/%s/"
+icon = "code" # font awesome code icon
+
 [params.ananke.social.github]
+username = "guerda"
+
+[params.ananke.social.gitlab]
 username = "guerda"
 
 [params.ananke.social.linkedin]
@@ -28,3 +42,5 @@ username = "philipgillissen"
 profilelink = "https://ruhr.social/@guerda"
 rel = "me noopener"
 
+[params.ananke.social.xing]
+username = "Philip_Gillissen"
