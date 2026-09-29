@@ -6,6 +6,7 @@ tags = ['Warntag', 'Android', 'iOS', 'Cell Broadcast']
 
 Diesen Monat fand [der sechste bundesweite Warntag statt](https://www.bundesregierung.de/breg-de/aktuelles/bundesweiter-warntag-2383690).
 Auch nach bereits einigen Tests der Sirenen, den Push-Nachrichten und Apps gibt es immer noch etwas zu lernen.
+<!--more-->
 Wenn bei mir die Geräte Dank erfolgreichem Cell Broadcast laut klingelten, habe ich verzweifelt so lange auf dem Bildschirm herumgedrückt, bis das Piepsen und Vibrieren aufhörte.
 Konnte ich die Warnung dabei lesen und die Informationen ruhig aufnehmen, um sie im Ernstfall anzuwenden zu können?
 Wohl kaum, bei dem lauten Geräusch und dem eindringlichen Blinken auf dem Bildschirm.
