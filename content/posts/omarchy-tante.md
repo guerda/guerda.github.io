@@ -5,7 +5,7 @@ tags = ['Omarchy', 'alt-right', 'Linux']
 +++
 
 Eine Stiftung, die Geld für freie Software-Projekte sammelt - klingt gut.
-
+<!--more-->
 Aber nicht, wenn deren Motto wie aus den 1930er Jahren klingt, der Gründer mit fremdenfeindlichen Aussagen auffällt und Entwickler finanziert, die gegen LGBT Gruppen agitieren.
 Und gleichzeitig kämpfen Projekte wie Gnome und andere weiter um Unterstützung.
 
